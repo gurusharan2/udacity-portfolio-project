@@ -1,0 +1,25 @@
+.icon {
+    padding-top: 20px;
+    width: 150px;
+    height: 150px;
+}
+img {
+    padding: 14px;
+}
+hr {
+    border: 0;
+    border-top: 5px solid #7d97ad;
+}
+h1 {
+    padding-top: 20px;
+    color: #2d3c49;
+    font-family: "Lato", sans-serif;    
+}
+h2 {
+    color: #7d97ad;
+    font-family: "Lato", sans-serif;    
+}
+h3 {
+    color: #2d3c49;
+    font-family: "Lato", sans-serif;    
+}
